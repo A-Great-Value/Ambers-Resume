@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+
+<body>
+<h1>Amber Bullock</h1>
+<hr>
+    <img src="./images/me.png/" height="150" alt="a picture of me">
+
+<h2>Summary</h2>
+<p>An administration officer with 3 years experience, specialising in account management, and knowledgable in ERP software. Looking to advance my career into web and software development. </p>
+
+<hr>
+
+<h2>Education</h2>
+<p>Graduated in 2017 <br>
+Highland School of Technology, Gastonia NC - High school Diploma</p>
+
+<h2>Work Experience </h2>
+
+<p>July 2024 - Present</p>
+    <h3>Deli/Bakery Assistant</h3>
+    <ul>
+        <li>Preparing product specified by customer quickly and efficiently. </li>
+        <li>Sorting through and taking inventory of shipments.</li>
+        <li>Decorating cakes to satisfy specifications as given by cusomers.</li>
+    </ul>
+</p>
+<p>March 2021 - April 2024</p>
+<h3>Era Polymers, Stanley NC - Administrator</h3>
+<ul>
+    <li>Scheduling appointments and maintaining efficient communications between multiple parties.</li>
+    <li>Conducted monthly account reconciliations, identifying discrepencies promptly and taking corrective actions in a timely and organised manner. Followed up on delinquent accounts.</li>
+    <li>Resolved client issues, utilising the HEART method to increase satisfaction and reducing complaints.</li>
+    <li>Utilizing software to accurately input 60+ work orders, 50+ purchase orders, and 50+ invoices weekly.</li>
+    <li>Coordinate and schedule up to 70 LTL and FTL shipments monthly, ensuring on time delivery and reducing shipment errors.</li>
+    <li>Maintained confidentiality of private files and accounts.</li>
+    <li>Sorted and maintained the filing system both digital and physical.</li>
+    <li>Provided basic IT support.</li>
+    <li>Provided assistance in QC lab testing.</li>
+</ul>
+<p>August 2018 - March 2021</p>
+<h3>Harris Teeter, Belmont NC - Customer Service</h3>
+<ul>
+    <li>Ensured the security and control of all funds in the register through following strict cash handling procedures and conducting accurate daily reconcilation.</li>
+    <li>Utilizing strong customer service skills to address inquiries, resolve issues, and assist patrons in a timely and concise manner.</li>
+</ul>
+<hr>
+<h2>Skills</h2>
+<p>Hard skills: Microsoft software proficiency, strong organisational skills, meticulous attention to detail</p>
+<p>Soft skills: Time management, an openness to learn, a drive to work</p>
+<footer>
+    Amber B
+</footer>
+
+</body> 
+</html>
